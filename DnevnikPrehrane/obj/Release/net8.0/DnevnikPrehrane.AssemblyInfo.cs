@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-DnevnikPrehrane-af691086-2535-43b1-818b-af5431068056")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("DnevnikPrehrane")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b3b6dbcdaff2e75674d4b2707ac69cdb683a295")]
 [assembly: System.Reflection.AssemblyProductAttribute("DnevnikPrehrane")]

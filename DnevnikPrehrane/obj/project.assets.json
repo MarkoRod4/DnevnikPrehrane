@@ -4458,11 +4458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\DnevnikPrehrane.csproj",
+      "projectUniqueName": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\DnevnikPrehrane.csproj",
       "projectName": "DnevnikPrehrane",
-      "projectPath": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\DnevnikPrehrane.csproj",
+      "projectPath": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\DnevnikPrehrane.csproj",
       "packagesPath": "C:\\Users\\Marko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\obj\\",
+      "outputPath": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
