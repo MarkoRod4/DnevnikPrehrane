@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\dnevnikprehrane\\dnevnikprehrane\\models\\obrok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\models\\obrok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\dnevnikprehrane\\dnevnikprehrane\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\dnevnikprehrane\\dnevnikprehrane\\models\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\models\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\dnevnikprehrane\\dnevnikprehrane\\models\\biljeska.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\models\\biljeska.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\dnevnikprehrane\\dnevnikprehrane\\models\\zapismase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\models\\zapismase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\dnevnikprehrane\\dnevnikprehrane\\models\\namirnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\models\\namirnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Data\\Migrations\\20250410143834_TablesInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DnevnikPrehrane\\Data\\Migrations\\20250410143834_TablesInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\dnevnikprehrane\\dnevnikprehrane\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\dnevnikprehrane\\dnevnikprehrane\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\dnevnikprehrane\\dnevnikprehrane\\data\\migrations\\20250410144518_tablesinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\data\\migrations\\20250410144518_tablesinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\dnevnikprehrane\\dnevnikprehrane\\data\\migrations\\20250413130418_seedingandzapismasechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\data\\migrations\\20250413130418_seedingandzapismasechange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250413130418_SeedingAndZapisMaseChange.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Data\\Migrations\\20250413130418_SeedingAndZapisMaseChange.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Data\\Migrations\\20250413130418_SeedingAndZapisMaseChange.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Data\\Migrations\\20250413130418_SeedingAndZapisMaseChange.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Data\\Migrations\\20250413130418_SeedingAndZapisMaseChange.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwE4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:04:19.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Biljeska.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Biljeska.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Models\\Biljeska.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Biljeska.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Models\\Biljeska.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:39:25.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kategorija.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Kategorija.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Models\\Kategorija.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Kategorija.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Models\\Kategorija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:24:51.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Namirnica.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Namirnica.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Models\\Namirnica.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Namirnica.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Models\\Namirnica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:24:01.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Obrok.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Obrok.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Models\\Obrok.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Obrok.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Models\\Obrok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:20:16.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZapisMase.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\ZapisMase.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Models\\ZapisMase.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\ZapisMase.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Models\\ZapisMase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:41:48.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T07:52:17.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250410144518_TablesInit.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Data\\Migrations\\20250410144518_TablesInit.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Data\\Migrations\\20250410144518_TablesInit.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Data\\Migrations\\20250410144518_TablesInit.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Data\\Migrations\\20250410144518_TablesInit.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAQwHsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:45:18.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250410143834_TablesInit.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Data\\Migrations\\20250410143834_TablesInit.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Data\\Migrations\\20250410143834_TablesInit.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Data\\Migrations\\20250410143834_TablesInit.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Data\\Migrations\\20250410143834_TablesInit.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:38:34.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:09:47.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T14:08:59.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
