@@ -1,0 +1,128 @@
+﻿@model DnevnikPrehrane.Models.Obrok
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Obrok</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ObrokId" />
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group position-relative">
+                <label asp-for="ImeNamirnice" class="control-label"></label>
+                <input asp-for="ImeNamirnice" class="form-control" id="ImeNamirnice" autocomplete="off" />
+                <div id="autocompleteDropdown" class="dropdown-menu show w-100" style="display: none;"></div>
+                <span asp-validation-for="ImeNamirnice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Količina" class="control-label"></label>
+                <input asp-for="Količina" type="number" class="form-control" id="Kolicina"/>
+                <span asp-validation-for="Količina" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Kalorije" class="control-label"></label>
+                <input asp-for="Kalorije" type="number" class="form-control" />
+                <span asp-validation-for="Kalorije" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Protein" class="control-label"></label>
+                <input asp-for="Protein" type="number" class="form-control" />
+                <span asp-validation-for="Protein" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ugljikohidrati" class="control-label"></label>
+                <input asp-for="Ugljikohidrati" type="number" class="form-control" />
+                <span asp-validation-for="Ugljikohidrati" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Masti" class="control-label"></label>
+                <input asp-for="Masti" type="number" class="form-control" />
+                <span asp-validation-for="Masti" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        const namirnice = @Html.Raw(Json.Serialize(ViewBag.Namirnice));
+        const inputIme = document.querySelector('#ImeNamirnice');
+        const dropdown = document.querySelector('#autocompleteDropdown');
+        const inputKolicina = document.querySelector('#Kolicina');
+        const inputKalorije = document.querySelector('#Kalorije');
+        const inputProtein = document.querySelector('#Protein');
+        const inputUgljikohidrati = document.querySelector('#Ugljikohidrati');
+        const inputMasti = document.querySelector('#Masti');
+
+        console.log(namirnice);
+
+        inputIme.addEventListener('input', function () {
+            const query = this.value.trim().toLowerCase();
+            dropdown.innerHTML = '';
+            if (!query) {
+                dropdown.style.display = 'none';
+                return;
+            }
+
+            const results = namirnice.filter(n => n?.name?.toLowerCase().includes(query));
+            if (results.length === 0) {
+                dropdown.style.display = 'none';
+                return;
+            }
+
+            results.slice(0, 5).forEach(n => {
+                const item = document.createElement('a');
+                item.classList.add('dropdown-item');
+                item.href = '#';
+                item.textContent = n.name;
+
+                item.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    inputIme.value = n.name;
+                    dropdown.style.display = 'none';
+
+                    let kolicina = parseFloat(inputKolicina.value);
+                    if (!kolicina || kolicina <= 0 ) {
+                        kolicina = 100;
+                        inputKolicina.value = 100;
+                    }
+
+                    const faktor = kolicina / 100;
+
+                    inputKalorije.value = (n.kalorije * faktor).toFixed(2);
+                    inputProtein.value = (n.protein * faktor).toFixed(2);
+                    inputUgljikohidrati.value = (n.ugljikohidrati * faktor).toFixed(2);
+                    inputMasti.value = (n.masti * faktor).toFixed(2);
+                });
+
+                dropdown.appendChild(item);
+            });
+
+            dropdown.style.display = 'block';
+        });
+
+        document.addEventListener('click', function (e) {
+            if (!dropdown.contains(e.target) && e.target !== inputIme) {
+                dropdown.style.display = 'none';
+            }
+        });
+    </script>
+}

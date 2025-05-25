@@ -1,0 +1,44 @@
+﻿@model DnevnikPrehrane.Models.Kategorija
+
+<h4>Namirnice:</h4>
+
+<div class="mb-2">
+    <a asp-controller="Namirnice" asp-action="Create" asp-route-kategorijaId="@Model.KategorijaId">Create</a>
+</div>
+
+@if (Model.Namirnice != null && Model.Namirnice.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Naziv</th>
+                <th>Kalorije</th>
+                <th>Proteini</th>
+                <th>Ugljikohidrati</th>
+                <th>Masti</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Namirnice)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Kalorije</td>
+                    <td>@item.Protein</td>
+                    <td>@item.Ugljikohidrati</td>
+                    <td>@item.Masti</td>
+                    <td>
+                        <a asp-controller="Namirnice" asp-action="Edit" asp-route-id="@item.NamirnicaId">Edit</a> | 
+                        <a asp-controller="Namirnice" asp-action="Details" asp-route-id="@item.NamirnicaId">Details</a> |
+                        <a asp-controller="Namirnice" asp-action="Delete" asp-route-id="@item.NamirnicaId">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p><em>Nema namirnica u ovoj kategoriji.</em></p>
+}

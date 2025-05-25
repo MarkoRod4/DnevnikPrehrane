@@ -1,0 +1,50 @@
+﻿@model DnevnikPrehrane.Models.ZapisMase
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>ZapisMase</h4>
+    <hr />
+    <dl class="row">
+        @if (!User.IsInRole("USER"))
+        {
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.User)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.User.UserName)
+            </dd>
+        }
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Masa)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Masa)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+    </dl>
+</div>
+@if (User.IsInRole("USER"))
+{
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model?.ZapisMaseId">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
+}
+else
+{
+    <div>
+        <a asp-action="Index" asp-route-userid="Model.User.Id">Back to List</a>
+    </div>
+}
+

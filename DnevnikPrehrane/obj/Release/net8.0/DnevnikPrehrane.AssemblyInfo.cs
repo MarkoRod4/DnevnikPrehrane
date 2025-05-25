@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DnevnikPrehrane")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b3b6dbcdaff2e75674d4b2707ac69cdb683a295")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fd9986d546ea3b8bad667eb072672f45cd5449e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DnevnikPrehrane")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DnevnikPrehrane")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

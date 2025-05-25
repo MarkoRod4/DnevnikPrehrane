@@ -1,0 +1,53 @@
+﻿@model DnevnikPrehrane.Models.Biljeska
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Biljeska</h4>
+    <hr />
+    <dl class="row">
+        @if (!User.IsInRole("USER"))
+        {
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.User)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.User.UserName)
+            </dd>
+        }
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+        
+
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Tekst)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Tekst)
+        </dd>
+
+    </dl>
+</div>
+@if (User.IsInRole("USER"))
+{
+    <div>
+        <a asp-action="Edit" asp-route-id="@Model?.BiljeskaId">Edit</a> |
+        <a asp-action="Index">Back to List</a>
+    </div>
+}
+else
+{
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+}
+

@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DnevnikPrehrane
 build_property.RootNamespace = DnevnikPrehrane
@@ -24,12 +32,104 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Biljeske/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsamVza2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Biljeske/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsamVza2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Biljeske/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsamVza2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Biljeske/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsamVza2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Biljeske/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsamVza2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Kategorije/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlqZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Kategorije/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlqZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Kategorije/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlqZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Kategorije/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlqZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Kategorije/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlqZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Kategorije/_Namirnice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlqZVxfTmFtaXJuaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Korisnici/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWNpXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Korisnici/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS29yaXNuaWNpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Namirnice/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtaXJuaWNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Namirnice/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtaXJuaWNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Namirnice/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtaXJuaWNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Namirnice/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtaXJuaWNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Namirnice/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmFtaXJuaWNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Obroci/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2Jyb2NpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Obroci/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2Jyb2NpXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Obroci/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2Jyb2NpXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Obroci/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2Jyb2NpXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Obroci/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2Jyb2NpXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Shared/Error.cshtml]
@@ -42,6 +142,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/ZapisiMase/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFwaXNpTWFzZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/ZapisiMase/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFwaXNpTWFzZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/ZapisiMase/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFwaXNpTWFzZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/ZapisiMase/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFwaXNpTWFzZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/ZapisiMase/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmFwaXNpTWFzZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Marko/source/repos/MarkoRod4/DnevnikPrehrane/DnevnikPrehrane/Views/_ViewImports.cshtml]

@@ -1,0 +1,97 @@
+﻿@model IEnumerable<DnevnikPrehrane.Models.Obrok>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@if (User.IsInRole("USER"))
+{
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+}
+
+<form asp-action="Index" method="get" class="form-inline mb-3">
+    <div class="form-group">
+        <label for="date" class="mr-2">Odaberi datum:</label>
+        <input type="date" id="date" name="date" class="form-control mr-2"
+        value="@(Context.Request.Query["date"])" />
+
+    </div>
+    <button type="submit" class="btn btn-primary">Filtriraj</button>
+</form>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImeNamirnice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Količina)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Kalorije)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Protein)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ugljikohidrati)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Masti)
+            </th>
+            <th>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ImeNamirnice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Količina)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kalorije)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Protein)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ugljikohidrati)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Masti)
+                </td>
+                @if (User.IsInRole("USER"))
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.ObrokId">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.ObrokId">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.ObrokId">Delete</a>
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.ObrokId">Details</a>
+                    </td>
+                }
+
+        </tr>
+}
+    </tbody>
+</table>

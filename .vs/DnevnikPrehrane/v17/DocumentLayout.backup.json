@@ -1,0 +1,666 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\korisnici\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\korisnici\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\controllers\\namirnicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\controllers\\namirnicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\models\\namirnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\models\\namirnica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\models\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\models\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\models\\obrok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\models\\obrok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\namirnice\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\namirnice\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\namirnice\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\namirnice\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\namirnice\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\namirnice\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\namirnice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\namirnice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\kategorije\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\kategorije\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\obroci\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\obroci\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\obroci\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\obroci\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\obroci\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\obroci\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\zapisimase\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\zapisimase\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\controllers\\obrocicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\controllers\\obrocicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\obroci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\obroci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\zapisimase\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\zapisimase\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\zapisimase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\zapisimase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\zapisimase\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\zapisimase\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\controllers\\zapisimasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\controllers\\zapisimasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\controllers\\kategorijecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\controllers\\kategorijecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\controllers\\biljeskecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\controllers\\biljeskecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\zapisimase\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\zapisimase\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\models\\zapismase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\models\\zapismase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\biljeske\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\biljeske\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\korisnici\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\korisnici\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\controllers\\korisnicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\controllers\\korisnicicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\obroci\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\obroci\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\kategorije\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\kategorije\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\namirnice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\namirnice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\models\\biljeska.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\models\\biljeska.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\kategorije\\_namirnice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\kategorije\\_namirnice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\kategorije\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\kategorije\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|c:\\users\\marko\\source\\repos\\markorod4\\dnevnikprehrane\\dnevnikprehrane\\views\\kategorije\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8DF5743-E14E-46FA-8158-A608102A30E6}|DnevnikPrehrane\\DnevnikPrehrane.csproj|solutionrelative:dnevnikprehrane\\views\\kategorije\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Kategorije\\Index.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Kategorije\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Kategorije\\Index.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Kategorije\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T20:16:39.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\ZapisiMase\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\ZapisiMase\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\ZapisiMase\\Delete.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\ZapisiMase\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:59:30.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\ZapisiMase\\Details.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\ZapisiMase\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\ZapisiMase\\Details.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\ZapisiMase\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:50:54.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\ZapisiMase\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\ZapisiMase\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\ZapisiMase\\Edit.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\ZapisiMase\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:48:47.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\ZapisiMase\\Create.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\ZapisiMase\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\ZapisiMase\\Create.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\ZapisiMase\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:45:17.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Biljeske\\Create.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Biljeske\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Biljeske\\Create.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Biljeske\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:34:36.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Program.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Program.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Program.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwF8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:30:19.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:22:40.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BiljeskeController.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\BiljeskeController.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Controllers\\BiljeskeController.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\BiljeskeController.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Controllers\\BiljeskeController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:20:07.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Korisnici\\Details.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Korisnici\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Korisnici\\Details.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Korisnici\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:18:13.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Korisnici\\Index.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Korisnici\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Korisnici\\Index.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Korisnici\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:17:50.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KorisniciController.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\KorisniciController.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Controllers\\KorisniciController.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\KorisniciController.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Controllers\\KorisniciController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T19:13:08.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\ZapisiMase\\Index.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\ZapisiMase\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\ZapisiMase\\Index.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\ZapisiMase\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:04:17.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:02:08.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T19:02:07.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ZapisMase.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\ZapisMase.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Models\\ZapisMase.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\ZapisMase.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Models\\ZapisMase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:57:40.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Obroci\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Obroci\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Obroci\\Delete.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Obroci\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T18:40:34.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ZapisiMaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\ZapisiMaseController.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Controllers\\ZapisiMaseController.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\ZapisiMaseController.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Controllers\\ZapisiMaseController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAuwJMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:39:19.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Obroci\\Details.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Obroci\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Obroci\\Details.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Obroci\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T18:30:03.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Obroci\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Obroci\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Obroci\\Edit.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Obroci\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T18:29:27.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Obroci\\Index.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Obroci\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Obroci\\Index.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Obroci\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T17:32:41.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Obroci\\Create.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Obroci\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Obroci\\Create.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Obroci\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T17:26:27.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Obrok.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Obrok.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Models\\Obrok.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Obrok.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Models\\Obrok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:20:34.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ObrociController.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\ObrociController.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Controllers\\ObrociController.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\ObrociController.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Controllers\\ObrociController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAmwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:54:46.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Namirnice\\Index.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Namirnice\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Namirnice\\Index.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Namirnice\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:51:03.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Namirnica.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Namirnica.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Models\\Namirnica.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Namirnica.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Models\\Namirnica.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:50:07.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Biljeska.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Biljeska.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Models\\Biljeska.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Biljeska.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Models\\Biljeska.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:49:57.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Namirnice\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Namirnice\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Namirnice\\Edit.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Namirnice\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:49:38.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Namirnice\\Details.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Namirnice\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Namirnice\\Details.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Namirnice\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:49:21.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Namirnice\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Namirnice\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Namirnice\\Delete.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Namirnice\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:48:47.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Namirnice\\Create.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Namirnice\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Namirnice\\Create.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Namirnice\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:48:03.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Namirnice.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Kategorije\\_Namirnice.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Kategorije\\_Namirnice.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Kategorije\\_Namirnice.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Kategorije\\_Namirnice.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:34:36.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NamirniceController.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\NamirniceController.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Controllers\\NamirniceController.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\NamirniceController.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Controllers\\NamirniceController.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAAwLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:25:46.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Kategorije\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Kategorije\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Kategorije\\Delete.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Kategorije\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:21:05.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Kategorije\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Kategorije\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Kategorije\\Edit.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Kategorije\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:20:48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Kategorije\\Create.cshtml",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Views\\Kategorije\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Views\\Kategorije\\Create.cshtml",
+              "RelativeToolTip": "DnevnikPrehrane\\Views\\Kategorije\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T16:14:30.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kategorija.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Kategorija.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Models\\Kategorija.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Models\\Kategorija.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Models\\Kategorija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:14:21.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KategorijeController.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\KategorijeController.cs",
+              "RelativeDocumentMoniker": "DnevnikPrehrane\\Controllers\\KategorijeController.cs",
+              "ToolTip": "C:\\Users\\Marko\\source\\repos\\MarkoRod4\\DnevnikPrehrane\\DnevnikPrehrane\\Controllers\\KategorijeController.cs",
+              "RelativeToolTip": "DnevnikPrehrane\\Controllers\\KategorijeController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwHAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:12:07.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
